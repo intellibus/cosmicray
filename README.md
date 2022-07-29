@@ -27,6 +27,7 @@
 - Prettier Template `Planned`
 - package.json Template `Planned`
 - Sematic Release Config Template `Planned`
+- Git Hooks Config Templates `Planned`
 
 ## Install 🛠
 
