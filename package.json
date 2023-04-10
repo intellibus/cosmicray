@@ -1,7 +1,7 @@
 {
   "type": "module",
   "name": "cosmicray",
-  "version": "1.0.264",
+  "version": "1.0.265",
   "description": "Standard Configuration Templates For Syncpad",
   "author": "Intellibus Labs <labs@intellibus.com> (https://intellibus.dev/)",
   "license": "MIT",
